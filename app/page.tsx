@@ -692,7 +692,7 @@ export default function SSCTInteractiveMap() {
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-4">🏢 Campus SSCT - Parcours des acteurs</h1>
           <p className="text-lg text-gray-600 mb-6">
-            Découvrez les acteurs de la SSCT en passant les niveaux jusqu'au défi final !
+            Saurez-vous identifier les acteurs de la SSCT en passant les niveaux jusqu'au défi final ?
           </p>
 
           <div className="flex justify-center gap-4 mb-6">
